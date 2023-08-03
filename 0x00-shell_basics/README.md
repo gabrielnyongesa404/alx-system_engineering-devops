@@ -1,2 +1,2 @@
 #!/bin/bash
-This repo holds the bin bash project
+This repo holds the bin/bash project
